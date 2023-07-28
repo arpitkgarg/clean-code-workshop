@@ -1,2 +1,2 @@
 # Movie Rental
-Refactoring kata template for Clean Code Workshop
+Refactoring kata Repository for Clean Code Workshop
